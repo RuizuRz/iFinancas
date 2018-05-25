@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Faculdade",
+    "Periodicidade": "Mensal",
+    "ValorPadrao": 1000.00
+  },
+  {
+    "Id": 2,
+    "Nome": "Luz",
+    "Periodicidade": "Mensal",
+    "ValorPadrao": 0.00
+  },
+  {
+    "Id": 3,
+    "Nome": "Água",
+    "Periodicidade": "Mensal",
+    "ValorPadrao": 0.00
+  },
+  {
+    "Id": 4,
+    "Nome": "Abastecer o carro",
+    "Periodicidade": "Semanal",
+    "ValorPadrao": 70.00
+  }
+]
