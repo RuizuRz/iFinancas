@@ -1,26 +1,26 @@
 [
   {
-    "Id": 1,
-    "Nome": "Faculdade",
-    "Periodicidade": "Mensal",
-    "ValorPadrao": 1000.00
+    "id": 1,
+    "nome": "Faculdade",
+    "periodicidade": "Mensal",
+    "valorPadrao": 1000.00
   },
   {
-    "Id": 2,
-    "Nome": "Luz",
-    "Periodicidade": "Mensal",
-    "ValorPadrao": 0.00
+    "id": 2,
+    "nome": "Luz",
+    "periodicidade": "Mensal",
+    "valorPadrao": 0.00
   },
   {
-    "Id": 3,
-    "Nome": "Água",
-    "Periodicidade": "Mensal",
-    "ValorPadrao": 0.00
+    "id": 3,
+    "nome": "Água",
+    "periodicidade": "Mensal",
+    "valorPadrao": 0.00
   },
   {
-    "Id": 4,
-    "Nome": "Abastecer o carro",
-    "Periodicidade": "Semanal",
-    "ValorPadrao": 70.00
+    "id": 4,
+    "nome": "Abastecer o carro",
+    "periodicidade": "Semanal",
+    "valorPadrao": 70.00
   }
 ]
