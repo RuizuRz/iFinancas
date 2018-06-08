@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Salário",
+    "periodicidade": "Mensal",
+    "valorPadrao": 3000.00
+  },
+  {
+    "id": 2,
+    "nome": "Recebimento de Aluguel",
+    "periodicidade": "Mensal",
+    "valorPadrao": 800.00
+  },
+  {
+    "id": 3,
+    "nome": "Revenda de Cosméticos",
+    "periodicidade": "Mensal",
+    "valorPadrao": 0.00
+  },
+  {
+    "id": 4,
+    "nome": "Restituição do IR",
+    "periodicidade": "Anual",
+    "valorPadrao": 200.00
+  }
+]
